@@ -1,7 +1,7 @@
 
 # Miata Mazda MX5 Brake Cooling System 
 
-I would like to present the brake disc cooling system for Miata MX5 NB /NBFL.
+I would like to present the brake disc cooling system for Miata MX5 NB / NBFL.
 
 The system consists of:
     
@@ -37,11 +37,11 @@ If you are interested please contact me :)
 
 <a href="images/bcs_set_4.jpg"><img src=images/bcs_set_4.jpg></a>
 
-<a href="images/bcs_set_5.jpg"><img src=images/bcs_set_5.jpg></a>
+<a href="images/bcs_set_5.jpeg"><img src=images/bcs_set_5.jpeg></a>
 
-<a href="images/bcs_set_6.jpg"><img src=images/bcs_set_6.jpg></a>
+<a href="images/bcs_set_6.jpeg"><img src=images/bcs_set_6.jpeg></a>
 
-<a href="images/bcs_set_7.jpg"><img src=images/bcs_set_7.jpg></a>
+<a href="images/bcs_set_7.jpeg"><img src=images/bcs_set_7.jpeg></a>
 
 <a href="images/NB_intlet.png"><img src=images/NB_intlet.png></a>
 
