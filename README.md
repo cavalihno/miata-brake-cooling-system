@@ -15,8 +15,8 @@ Plug&Play system for your Miata.
 
 If you are interested please contact me :)
 
-
-
+EU price: EUR170 + EUR10 Shipping
+PL price: 800PLN + 15PLN Wysyłka
 
 ## Contact
 
