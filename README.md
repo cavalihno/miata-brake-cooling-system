@@ -44,6 +44,8 @@ PL price: 800PLN + 15PLN Wysyłka
 
 <a href="images/bcs_set_7.jpeg"><img src=images/bcs_set_7.jpeg></a>
 
+Air inlets NB1:
 <a href="images/NB_intlet.png"><img src=images/NB_intlet.png></a>
 
+Air inlets NBFL:
 <a href="images/NBFL_intlet.jpeg"><img src=images/NBFL_intlet.jpeg></a>
